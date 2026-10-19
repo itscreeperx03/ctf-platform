@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CYBERSTRIKE CTF 2026
 
 **Organised by:**
@@ -86,3 +87,6 @@ SMTP_PASS=your-gmail-app-password
 SMTP_FROM="CYBERSTRIKE CTF 2026 <no-reply@cyberctf.local>"
 ```
 *(If omitted, the platform runs in Dev Mode with instant on-screen OTPs).*
+=======
+# ctf-platform
+>>>>>>> d7d694270f55d5aa09c9cb9c2d441cebd8d54403
