@@ -1,0 +1,89 @@
+{
+  "settings": {
+    "eventTitle": "CYBERSTRIKE CTF 2026",
+    "college": "Pandit Deendayal Upadhyaya Adarsha Mahavidyalaya (PDUAM), Amjonga",
+    "department": "Department of Computer Science",
+    "organizer": "CSSA (Computer Science Students Association)",
+    "eventDate": "2026-10-28",
+    "wave1StartTime": "10:00:00",
+    "wave2StartTime": "13:00:00",
+    "eventEndTime": "18:00:00",
+    "timezone": "Asia/Kolkata",
+    "simulationMode": false,
+    "simulatedWave": 1,
+    "allowLateRegistration": true
+  },
+  "teams": [
+    {
+      "id": "team-1792387043705-819gd",
+      "name": "CyberKnights PDUAM",
+      "leaderName": "Rahul Sharma",
+      "leaderEmail": "rahul@pduam.ac.in",
+      "password": "cyberpassword123",
+      "members": [
+        {
+          "name": "Rahul Sharma",
+          "email": "rahul@pduam.ac.in",
+          "isLeader": true
+        },
+        {
+          "name": "Priya Das",
+          "email": "priya@pduam.ac.in",
+          "isLeader": false
+        },
+        {
+          "name": "Ankur Gogoi",
+          "email": "ankur@pduam.ac.in",
+          "isLeader": false
+        }
+      ],
+      "verified": true,
+      "score": 0,
+      "createdAt": "2026-10-19T05:17:23.705Z"
+    }
+  ],
+  "challenges": [],
+  "solves": [],
+  "otps": [
+    {
+      "id": "otp-1792387025065-3y2ou",
+      "email": "rahul@pduam.ac.in",
+      "code": "786170",
+      "expiresAt": 1792387625065,
+      "used": true,
+      "type": "registration",
+      "createdAt": "2026-10-19T05:17:05.065Z",
+      "metadata": {
+        "teamName": "CyberKnights PDUAM",
+        "leaderName": "Rahul Sharma",
+        "members": [
+          {
+            "email": "priya@pduam.ac.in",
+            "name": "Priya Das"
+          },
+          {
+            "email": "ankur@pduam.ac.in",
+            "name": "Ankur Gogoi"
+          }
+        ],
+        "password": "cyberpassword123"
+      }
+    }
+  ],
+  "certificates": [
+    {
+      "certId": "CTF26-4D97-2398",
+      "recipientName": "Priya Das",
+      "recipientEmail": "priya@pduam.ac.in",
+      "teamName": "CyberKnights PDUAM",
+      "teamId": "team-1792387043705-819gd",
+      "rank": 1,
+      "score": 0,
+      "issueDate": "October 28, 2026",
+      "eventTitle": "CYBERSTRIKE CTF 2026",
+      "college": "Pandit Deendayal Upadhyaya Adarsha Mahavidyalaya (PDUAM), Amjonga",
+      "department": "Department of Computer Science",
+      "organizer": "Computer Science Students Association (CSSA)"
+    }
+  ]
+}
